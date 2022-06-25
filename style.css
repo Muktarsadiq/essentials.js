@@ -1,0 +1,23 @@
+body{
+   --bgcolor: purple;
+   background: var(--bgcolor);
+}
+.form{
+   font-size: 3rem;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   border: 2px solid black;
+   width: 300px;
+   height: 200px;
+   padding: 10px;
+   margin: 25px;
+   background-color: red; 
+   box-sizing: border-box;
+}
+li{
+   background: blue;
+   color: white;
+}
+ul li:nth-child(3){
+   background: black;
+   color: yellow;
+}
