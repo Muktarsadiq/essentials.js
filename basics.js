@@ -250,6 +250,7 @@ function myCode() {
 console.log(y)
 
 /* Block Scope */
+
 // Hoisting //
 
 // Closures //
